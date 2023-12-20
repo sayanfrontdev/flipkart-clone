@@ -1,0 +1,20 @@
+
+
+.prodctWrapper{
+    border:1px solid black;
+    border-radius: 4px;
+    padding: 8px 4px;
+    text-align: center;
+    width: 250px;
+    cursor: pointer;
+}
+
+.productImg{
+    height: 200px;
+    width: 100%;
+    transition: all 0.2s;
+}
+
+.prodctWrapper:hover .productImg{
+    scale: 1.01;
+}

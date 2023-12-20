@@ -1,0 +1,5 @@
+.product_list_wrapper{
+    display: flex;
+    gap:20px;
+    flex-wrap: wrap;
+}
